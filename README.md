@@ -133,7 +133,7 @@ This ensures transparency and reproducibility.
 
 ## 🚀 How to Run the Project
 ```bash
-git clone https://github.com/your-username/World_Happiness_report_2021-ML-model.git
+git clone https://github.com/Arnab-Ghosh7/World_Happiness_report_2021-ML-model
 cd World_Happiness_report_2021-ML-model
 streamlit run app.py
 python generate_report.py
